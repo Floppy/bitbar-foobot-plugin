@@ -1,4 +1,4 @@
-# bitbar-chaos2-plugin
+# bitbar-foobot-plugin
 
 A [Foobot](https://foobot.io/) plugin for [BitBar](https://getbitbar.com/) to show CO2 level. Useful for noticing when the air in your office has gotten stale.
 
